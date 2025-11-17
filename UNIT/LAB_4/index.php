@@ -39,7 +39,7 @@
         zamijeni_referenca($broj1, $broj2);
         echo "Nakon zamjene putem referenci prvi je $broj1, a drugi $broj2<br>";
 
-        // ponovno postavljanje vrijednosti
+        // ponovno postavljanje vrijednosti 
         $broj1 = $_POST['broj1'];
         $broj2 = $_POST['broj2'];
 
